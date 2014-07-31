@@ -9,4 +9,4 @@
 
 # temp subdirectory
 temp/
-.swp
+*.swp
